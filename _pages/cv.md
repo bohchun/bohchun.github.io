@@ -11,36 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Anthropology, Oregon State University, 2023
+* M.A. in Women's Studies, Ewha Womans University, 2010
+* B.A. in Women's Studies and French (Double Majors), Ewha Womans University, 2006
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - Present: Postdoctural Research Fellow
+  * Appointed with the School of Information, The University of Texas at Austin
+  * Funded by Living and Working with Robots (LWR) Project Team of Good Systems  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2021: Doctoral Researcher 
+  * Appointed with the School of Electrical Engineering and Computer Science at Oregon State University
+  * Funded by CHARISMA* Research Lab, Collaborative Robots and Intelligent Systems (CoRIS) Institute
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
