@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Bohkyung Chun"
-  pronouns         : # example: "she/her"  
+  name             : "Dr. Bohkyung (Boh) Chun"
+  pronouns         : "she/her"  
   bio              : "I study people's social and emotional experiences with robots and AI using ethnographic methods for my work."
   location         : "Austin, TX, U.S.A."
   employer         : "The University of Texas at Austin"
