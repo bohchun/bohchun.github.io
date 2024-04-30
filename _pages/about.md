@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Welcome to Dr. Boh Chun's Academic Page!"
+title: "Dr. Boh Chun's Academic Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
+Hi, I am a “robot anthropologist” - a human-machine interaction scholar who studies robots and AI in society at the intersection of social science and computer science with an applied cultural anthropology Ph.D. My research interests lie in (1) people’s social and emotional experiences with service robots and generative AI, (2) optimizing and using different modes of ethnography for real-world HRI and Human-AI Interaction research and (3) social and ethical aspects of AI in relation to gender and equity. I am currently a postdoctoral research fellow in Living and Working with Robots (LWR) team of Good Systems at the University of Texas at Austin, appointed with the school of information. In the LWR team, I have been leading multiple research projects regarding people’s social experiences with service robotics and embodied AI and methodological investigations of real-world HRI through cross-disciplinary collaborations with the team members and Texas Robotics. I obtained my Ph.D. in applied cultural anthropology at Oregon State University in 2023 with a Ph.D. dissertation, Korean Men Streaming Live: Integrating Anthropology and Human-Computer Interaction, that features an interdisciplinary approach to user experiences and cultural politics of a Korean live streaming platform, as the academic intersection of cultural anthropology and HCI. Meanwhile, I studied women’s studies with a concentration of technology, gender & social justice for my master’s and bachelor’s degrees.
 
