@@ -24,7 +24,8 @@ Work experience
 * 2018-2021: Doctoral Researcher 
   * Appointed with the School of Electrical Engineering and Computer Science at Oregon State University
   * Funded by CHARISMA* Research Lab, Collaborative Robots and Intelligent Systems (CoRIS) Institute
-  
+
+<!-- This line starts ignoring text
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -43,3 +44,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+This line ends ignoring text -->
