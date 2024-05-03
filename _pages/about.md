@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Dr. Boh Chun's Academic Page"
+title: "Welcome to Dr. Boh Chun's Academic Page!"
 author_profile: true
 redirect_from: 
   - /about/
