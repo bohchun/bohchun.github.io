@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a “robot anthropologist” - a human-machine interaction scholar who studies robots and AI in society at the intersection of Social Science and Computer Science with an Applied Cultural Anthropology Ph.D.
+Hi, I am a “robot anthropologist” - a human-machine interaction scholar who studies robots and AI in society with an Applied Cultural Anthropology Ph.D.
 
 My research interests lie in (1) people’s social and emotional experiences with service robots and generative AI, (2) optimizing and using different modes of ethnography for real-world HRI and human-AI interaction research and (3) social and ethical aspects of AI in relation to gender and equity. 
 
